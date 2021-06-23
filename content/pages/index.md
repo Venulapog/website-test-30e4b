@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/10.jpg
+    image: /images/thoughtful-elm.jpg
     image_alt: App preview
     title: Spicify
     content: |
