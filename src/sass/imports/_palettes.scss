@@ -40,9 +40,9 @@
     }
 
     .bg-accent {
-      background: $color-primary;
-      background: -webkit-gradient(linear, left top, right top, from($color-primary), to($color-secondary));
-      background: linear-gradient(to right,$color-primary, $color-secondary);
+      background: #fff5533;
+      background: -webkit-gradient(linear, left top, right top, from(#fff5533), to($color-secondary));
+      background: linear-gradient(to right,#fff5533, $color-secondary);
 
       .button {
         color: $color-primary;
