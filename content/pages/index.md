@@ -9,7 +9,7 @@ sections:
     content: |
       Spicy, mouthwatering gourmet food at your fingertip
     actions:
-      - label: Learn More
+      - label: Order Now
         url: /features
         style: primary
   - section_id: features
