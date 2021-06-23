@@ -567,9 +567,9 @@
   }
 
   &.bg-accent {
-    background: $color-primary;
-    background: -webkit-gradient(linear, left top, right top, from($color-primary), to($color-secondary));
-    background: linear-gradient(to right,$color-primary, $color-secondary);
+    background: #ff5533;
+    background: -webkit-gradient(linear, left top, right top, from(#ff5533), to($color-secondary));
+    background: linear-gradient(to right,#ff5533, $color-secondary);
     color: #fff;
 
     a {
