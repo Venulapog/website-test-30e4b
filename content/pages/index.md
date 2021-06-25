@@ -21,7 +21,7 @@ sections:
       quis lorem malesuada luctus.
     features:
       - title: The Best Feature of Your Services
-        image: images/feature1.png
+        image: images/n2.jpg
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
@@ -35,7 +35,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Awesome Feature of Your Services
-        image: images/feature2.png
+        image: images/n3.jpg
         image_alt: App users welcoming a new member
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
@@ -49,7 +49,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Cool Feature of Your Services
-        image: images/feature3.png
+        image: images/n4.jpg
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
