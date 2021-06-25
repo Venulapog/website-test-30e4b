@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: SignUp
+      value: Sign Up
       keyName: property
     - name: 'og:description'
       value: This is the sign up page
